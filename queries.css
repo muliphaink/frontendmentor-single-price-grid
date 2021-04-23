@@ -13,11 +13,13 @@
 	}
 	.box {
 		padding: 10%; 
-		text-align: justify;
 	}
 	.first-box {
 		border-radius: 0;
 	}
+	.text {
+		text-align: justify;
+	}	
 	.second-box {
 		border-bottom-left-radius: 10px;
 	}
